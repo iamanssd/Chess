@@ -1,4 +1,4 @@
-###Contains:
+### Contains:
 - pictures
 	- pieces
 	- board
